@@ -1,0 +1,482 @@
+[
+    {
+        "atac.title": "CASE-NEUYY225MNZ-8900-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUYY225MNZ-8900-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUYY225MNZ-8900-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUBD062TJV-8614-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUBD062TJV-8614-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUBD062TJV-8614-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUWT164JRQ-9159-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUWT164JRQ-9159-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUWT164JRQ-9159-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUGM959DE2-8684-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUGM959DE2-8684-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUGM959DE2-8684-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUEU392AE8-9187-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUEU392AE8-9187-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUEU392AE8-9187-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUEU392AE8-5230-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUEU392AE8-5230-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUEU392AE8-5230-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUJK720JCL-9124-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUJK720JCL-9124-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUJK720JCL-9124-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUPW536ZKZ-9173-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUPW536ZKZ-9173-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUPW536ZKZ-9173-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUMN012EVP-8928-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUMN012EVP-8928-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUMN012EVP-8928-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUGE540TC4-8893-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUGE540TC4-8893-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUGE540TC4-8893-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUCV809LL4-8977-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUCV809LL4-8977-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUCV809LL4-8977-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEURJ861MMD-8949-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEURJ861MMD-8949-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEURJ861MMD-8949-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUHK991AVP-9138-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUHK991AVP-9138-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUHK991AVP-9138-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUHG644RYB-9103-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUHG644RYB-9103-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUHG644RYB-9103-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUEU392AE8-8984-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUEU392AE8-8984-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUEU392AE8-8984-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUAJ025JC3-8942-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUAJ025JC3-8942-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUAJ025JC3-8942-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUCV136DHM-9152-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUCV136DHM-9152-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUCV136DHM-9152-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUAW157NMJ-8914-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUAW157NMJ-8914-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUAW157NMJ-8914-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEULZ548ZXV-9110-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEULZ548ZXV-9110-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEULZ548ZXV-9110-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUBW008RJ5-9131-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUBW008RJ5-9131-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUBW008RJ5-9131-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUHE723FGT-9145-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUHE723FGT-9145-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUHE723FGT-9145-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUXC258VTR-9166-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUXC258VTR-9166-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUXC258VTR-9166-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUZY975XKL-9117-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUZY975XKL-9117-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUZY975XKL-9117-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUWD538KT3-8921-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUWD538KT3-8921-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUWD538KT3-8921-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUYM011FER-8963-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUYM011FER-8963-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUYM011FER-8963-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUPK546ZLD-9096-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUPK546ZLD-9096-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUPK546ZLD-9096-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUGK693CJZ-8649-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUGK693CJZ-8649-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUGK693CJZ-8649-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUMF089KLV-9180-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUMF089KLV-9180-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUMF089KLV-9180-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUPH301NNX-8970-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUPH301NNX-8970-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUPH301NNX-8970-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUDM126GNG-8956-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUDM126GNG-8956-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUDM126GNG-8956-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CASE-NEUEB422WW0-8907-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUEB422WW0-8907-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CASE-NEUEB422WW0-8907-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    },
+    {
+        "atac.title": "CTRL-NEUYM205MRL-8935-E",
+        "atac.description": "",
+        "atac.pipeline_type": "atac",
+        "atac.paired_end": true,
+        "atac.genome_tsv": "/pool/data/cromwell-aals/encode3-pipelines/hg38/hg38.tsv",
+        "atac.fastqs_rep1_R1": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUYM205MRL-8935-E_1.fastq.gz"
+        ],
+        "atac.fastqs_rep1_R2": [
+            "/pool/data/globus/fraenkel_internal/AALS_signal_reproducibility/1_fastq/batch_53/CTRL-NEUYM205MRL-8935-E_2.fastq.gz"
+        ],
+        "atac.adapter": "CTGTCTCTTATACACATCT",
+        "atac.enable_xcor": true
+    }
+]
