@@ -5,7 +5,7 @@ obj = dba(sampleSheet="/home/yraghav/AALS-Epigenomics-Signal-Reproducibility/not
 
 obj = dba.count(obj, minOverlap=.1, score=DBA_SCORE_TMM_READS_FULL, bParallel=TRUE)
 
-save(obj, file="/home/yraghav/Stas_Object.Rdata)
+save(obj, file="/home/yraghav/Stas_Object.Rdata")
 
 write.table(dba.peakset(obj, DataType=DBA_DATA_FRAME, bRetrieve=TRUE), 
            "/home/yraghav/AALS-Epigenomics-Signal-Reproducibility/notebooks/diffbind/2_retrieve_count_matrix/output/matrix.tsv", 
